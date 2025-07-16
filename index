@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Solicitação de exclusão de dados - Estante Virtual</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      max-width: 800px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exclusão de dados - Estante Virtual</h1>
+
+  <p>O aplicativo <strong>Estante Virtual</strong>, desenvolvido por <strong>GC DevsApps</strong>, não coleta ou armazena dados pessoais em servidores externos. Todos os dados são armazenados exclusivamente no dispositivo do usuário.</p>
+
+  <h2>Como excluir seus dados</h2>
+  <p>Você pode excluir os dados do aplicativo das seguintes formas:</p>
+  <ul>
+    <li>Excluindo manualmente os livros e imagens dentro do aplicativo</li>
+    <li>Desinstalando o aplicativo, o que apagará automaticamente todos os dados armazenados localmente</li>
+  </ul>
+
+  <h2>Tipos de dados excluídos</h2>
+  <p>São excluídos todos os dados inseridos no aplicativo, como informações de livros, imagens de capa e anotações. Nenhum dado é mantido após a desinstalação.</p>
+
+  <h2>Contato</h2>
+  <p>Se você tiver dúvidas ou precisar de suporte, entre em contato com o desenvolvedor pelo e-mail: <em>comim.gabriel@gmail.com</em></p>
+
+  <p>Última atualização: julho de 2025</p>
+</body>
+</html>
